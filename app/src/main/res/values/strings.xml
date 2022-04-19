@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculadora Pesos Dolar</string>
+    <string name="dolar">Dólar</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolar_to_pesos">Convertir Dolar a pesos</string>
+    <string name="pesos_to_dolar">Convertir Pesos a Dolar</string>
+    <string name="salir">Salir</string>
+    <string name="borrar">Borrar</string>
+
+
+
+
+
+
+</resources>
